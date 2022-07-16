@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/Menu-Bottom/static/css/main.4261106a.css",
+    "main.js": "/github.io/Menu-Bottom/static/js/main.9769f237.js",
+    "static/media/photo-film-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/photo-film-solid-blanc.ad4990b3f24b5a83a01262b2286181d5.svg",
+    "static/media/music-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/music-solid-blanc.2a1d2c7dc5f6515a9e2cf010497ee4ad.svg",
+    "static/media/house-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/house-solid-blanc.de6f0f53d05a0f5d73982fd2763a558c.svg",
+    "static/media/address-card-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/address-card-solid-blanc.64dde6546539c25ac873a393d932d393.svg",
+    "static/media/file-image-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/file-image-solid-blanc.199f68808ff997bd3c5422917d8837e3.svg",
+    "static/media/+-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/+-solid-blanc.124001e23c6c473dc8f146395ff00a4c.svg",
+    "static/media/about-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/about-solid-blanc.73d4eca8e4bdec00f141be66aa93a21f.svg",
+    "static/media/envelope-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/envelope-solid-blanc.9427b6d0f90317c746654e94f7eebba0.svg",
+    "index.html": "/github.io/Menu-Bottom/index.html",
+    "static/media/note-sticky-solid-blanc.svg": "/github.io/Menu-Bottom/static/media/note-sticky-solid-blanc.bca510df8ef7b193d02d10e7b33e4c68.svg",
+    "main.4261106a.css.map": "/github.io/Menu-Bottom/static/css/main.4261106a.css.map",
+    "main.9769f237.js.map": "/github.io/Menu-Bottom/static/js/main.9769f237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4261106a.css",
+    "static/js/main.9769f237.js"
+  ]
+}
