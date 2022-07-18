@@ -5,7 +5,7 @@ import ContactMe from './assets/fonts/fontawesome/envelope-solid-blanc.svg';
 import MyCV from './assets/fonts/fontawesome/address-card-solid-blanc.svg';
 import Toggle from './components/Toggle';
 
-function App() {
+function Menu() {
   const menus = [
     {
       icon: House,
@@ -58,4 +58,4 @@ function App() {
      </div>
 )}
 
-export default App;
+export default Menu;

@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Menu from './Menu';
+import Menu from '../src/Menu';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
