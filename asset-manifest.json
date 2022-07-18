@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Menu-Bottom/static/css/main.923aacd7.css",
+    "main.css": "/Menu-Bottom/static/css/main.fff15585.css",
     "main.js": "/Menu-Bottom/static/js/main.1d58f0d2.js",
     "static/media/photo-film-solid-blanc.svg": "/Menu-Bottom/static/media/photo-film-solid-blanc.ad4990b3f24b5a83a01262b2286181d5.svg",
     "static/media/music-solid-blanc.svg": "/Menu-Bottom/static/media/music-solid-blanc.2a1d2c7dc5f6515a9e2cf010497ee4ad.svg",
@@ -12,11 +12,11 @@
     "static/media/envelope-solid-blanc.svg": "/Menu-Bottom/static/media/envelope-solid-blanc.9427b6d0f90317c746654e94f7eebba0.svg",
     "index.html": "/Menu-Bottom/index.html",
     "static/media/note-sticky-solid-blanc.svg": "/Menu-Bottom/static/media/note-sticky-solid-blanc.bca510df8ef7b193d02d10e7b33e4c68.svg",
-    "main.923aacd7.css.map": "/Menu-Bottom/static/css/main.923aacd7.css.map",
+    "main.fff15585.css.map": "/Menu-Bottom/static/css/main.fff15585.css.map",
     "main.1d58f0d2.js.map": "/Menu-Bottom/static/js/main.1d58f0d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.923aacd7.css",
+    "static/css/main.fff15585.css",
     "static/js/main.1d58f0d2.js"
   ]
 }
